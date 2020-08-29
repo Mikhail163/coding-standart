@@ -22,6 +22,7 @@
             <file>lib</file>
             <file>src</file>
             <file>test</file>
+            <exclude-pattern>*\.(inc|css|js)</exclude-pattern>
         </ruleset>
     ```
 ## Usage
