@@ -101,5 +101,5 @@
     <rule ref="SlevomatCodingStandard.Commenting.EmptyComment"/>
     <rule ref="SlevomatCodingStandard.Exceptions.ReferenceThrowableOnly"/>
     <rule ref="SlevomatCodingStandard.Namespaces.UseDoesNotStartWithBackslash"/>
-    <rule ref="./src/Standards/EGPB44/ruleset.xml"/>
+    <rule ref="./src/Standards/PHP/ruleset.xml"/>
 </ruleset>
