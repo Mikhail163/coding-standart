@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ruleset name="Mikhail163 Coding Standard">
+    <description>Mikhail163 Team Coding Standard</description>
+    <rul ref="Mikhail163.Debug.DebugCode"/>
+</ruleset>

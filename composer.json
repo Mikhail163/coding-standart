@@ -1,0 +1,20 @@
+{
+  "name": "mikhail163/coding-standard",
+  "description": "mikhail163 PHP Coding Standard",
+  "type": "library",
+  "keywords": [
+    "coding standard"
+  ],
+  "require": {
+    "php": "^7.3",
+    "roave/security-advisories": "dev-master",
+    "slevomat/coding-standard": "^6.3.2",
+    "squizlabs/php_codesniffer": "^3.4.2",
+    "dealerdirect/phpcodesniffer-composer-installer": "0.6.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "PHP\\Standards\\": "src/Standards/PHP"
+    }
+  }
+}
