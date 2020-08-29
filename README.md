@@ -3,7 +3,7 @@
 ## Installation
 1. Install the module via composer:
     ```console
-        composer require --dev egpb/coding-standard
+        composer require --dev mikhail163/coding-standard
     ```
 2. Add composer scripts into your `composer.json`:
    ```json
@@ -15,8 +15,8 @@
 3. Create file `phpcs.xml`:
     ```xml
         <?xml version="1.0"?>
-            <ruleset name="ETP GPB Team Coding Standard">
-            <rule ref="./vendor/egpb/coding-standard/ruleset.xml"/>
+            <ruleset name="Mikhail163 Team Coding Standard">
+            <rule ref="./vendor/mikhail163/coding-standard/ruleset.xml"/>
             <file>bin</file>
             <file>config</file>
             <file>lib</file>
